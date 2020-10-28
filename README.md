@@ -1,6 +1,6 @@
-## Hello everyone, I'm Vladimir and I'm Front-end developer.
+## Hello everyone! I'm Vladimir and I'm Front-end developer.
 
-### I finished front-end course from[RSScool](https://rs.school/).
+### I finished front-end course from [RSScool](https://rs.school/).
 ### [My certificate.](https://app.rs.school/certificate/cbzyvesq)
 ### [There](https://github.com/multeng/learn-at-rsschool/blob/master/README.md) you can check my works.
 ### Now I am looking for a job.
