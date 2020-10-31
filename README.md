@@ -7,7 +7,7 @@
 
 <br />
 
-### I know:
+### Base knowledge:
 - HTML5 & CSS3(Responsive)
 - CSS preprocessor(SASS\SCSS)
 - JavaScript(ES6+)
